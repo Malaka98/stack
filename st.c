@@ -2,20 +2,15 @@
 
 struct stack {
 
-    int s[];
+    int s[5];
     int top;
 
 }st;
 
 void push();
+int pop();
 
 int main() {
-
-    /*for(int i=0;i<6;i++) {
-
-        push();
-
-    }*/
 
     pop();
 
