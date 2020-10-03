@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-struct stack {
+struct stack {//push to add element
 
     int s[5];
     int top;
