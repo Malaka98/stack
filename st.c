@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 struct stack {//push to add element
 
@@ -12,7 +13,7 @@ int pop();
 
 int main() {
 
-    pop();
+    pop();//pop to remove elements
 
     return 0;
 }
